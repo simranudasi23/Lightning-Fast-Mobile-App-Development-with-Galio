@@ -1,8 +1,8 @@
-# Lightning-Fast-Mobile-App-Development-with-Galio
+# Lightning Fast Mobile App Development with Galio
 
-<a href="https://www.packtpub.com/product/lightning-fast-mobile-app-development-with-galio/9781801073165"><img src="https://static.packt-cdn.com/products/9781801073165/cover/smaller" alt="Lightning-Fast-Mobile-App-Development-with-Galio" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/lightning-fast-mobile-app-development-with-galio/9781801073165"><img src="https://static.packt-cdn.com/products/9781801073165/cover/smaller" alt="Lightning Fast Mobile App Development with Galio" height="256px" align="right"></a>
 
-This is the code repository for [Lightning-Fast-Mobile-App-Development-with-Galio](https://www.packtpub.com/product/lightning-fast-mobile-app-development-with-galio/9781801073165), published by Packt.
+This is the code repository for [Lightning Fast Mobile App Development with Galio](https://www.packtpub.com/product/lightning-fast-mobile-app-development-with-galio/9781801073165), published by Packt.
 
 **Build stylish cross-platform mobile apps with Galio and React Native**
 
